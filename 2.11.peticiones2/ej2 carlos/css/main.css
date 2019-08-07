@@ -1,0 +1,10 @@
+.app{
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+.btn{
+    margin: 40px;
+}

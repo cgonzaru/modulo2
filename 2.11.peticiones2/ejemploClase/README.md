@@ -1,0 +1,1 @@
+todo lo que se guarda en localstorage es cadena
